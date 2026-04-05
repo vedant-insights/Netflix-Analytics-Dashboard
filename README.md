@@ -8,7 +8,7 @@ This project is a Power BI dashboard analyzing Netflix content trends including:
 - Release trends over time
 
 ## Files Included
-- Netflix_Dashboard_Report.pdf
+- Netflix Dashboard.pdf
 
 ## Tools Used
 - Power BI
